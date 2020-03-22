@@ -3,6 +3,7 @@ package final_section;
 import java.util.function.Consumer;
 
 //02:00:00
+// Simulating Javascript like callback usage dynamic
 public class Callbacks {
     public static void main(String[] args) {
         hello("John", null, value -> {
